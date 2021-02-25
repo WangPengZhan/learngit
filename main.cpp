@@ -31,11 +31,18 @@
 //     return 0;
 // }
 
-#include <vector>
-#include "find.cpp"
+// #include <vector>
+// #include "find.cpp"
 
-int main(){
-    std::vector<int> v{1, 2, 3, 4, 5};
-    find(v, 5);
+// int main(){
+//     std::vector<int> v{1, 2, 3, 4, 5};
+//     find(v, 5);
+//     return 0;
+// }
+
+#include <vector>
+
+int main()
+{
     return 0;
 }
